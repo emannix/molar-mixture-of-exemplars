@@ -1,4 +1,4 @@
-# Efficient Out-of-Distribution Detection with Prototypical Semi-Supervised Learning and Foundation Models
+# A Unified Approach to Semi-Supervised Out-of-Distribution Detection
 
 
 ## Installation

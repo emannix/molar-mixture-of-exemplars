@@ -1,4 +1,4 @@
-# A Unified Approach to Semi-Supervised Out-of-Distribution Detection
+# A Mixture of Exemplars Approach for Efficient Out-of-Distribution Detection with Foundation Models
 
 
 ## Installation
